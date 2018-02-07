@@ -14,11 +14,11 @@ The advantages are enormous. First, it is much easier to program in a high-level
 
 ![Interpreter Vs Compiler](https://i.imgur.com/v8tyajf.png)
 
-### 2.1 Interpreter
+#### 2.1 Interpreter
 
 **Ans:** An interpreter reads a high-level program and executes it, meaning that it does what the program says. It processes the program a little at a time, alternately reading lines and performing computations. Figure 1.1 shows the structure of an interpreter.
 
-### 2.2 Compiler
+#### 2.2 Compiler
 
 **Ans:** A compiler reads the program and translates it completely before the program starts running. In this context, the high-level program is called the source code, and the translated program is called the object code or the executable. Once a program is compiled, you can execute it repeatedly without further translation. Figure 1.2 shows the structure of a compiler.
 
@@ -41,15 +41,15 @@ The advantages are enormous. First, it is much easier to program in a high-level
 
 Three kinds of errors can occur in a program: syntax errors, runtime errors, and semantic errors. It is useful to distinguish between them in order to track them down more quickly.
 
-### 4.1 Syntax errors
+#### 4.1 Syntax errors
 
 **Ans:** Python can only execute a program if the syntax is correct; otherwise, the interpreter displays an error message. Syntax refers to the structure of a program and the rules about that structure
 
-### 4.2 Runtime errors
+#### 4.2 Runtime errors
 
 **Ans:** The second type of error is a runtime error, so called because the error does not appear until after the program has started running. These errors are also called exceptions because they usually indicate that something exceptional (and bad) has happened.
 
-### 4.3  Semantic errors
+#### 4.3  Semantic errors
 
 **Ans:** The third type of error is the semantic error. If there is a semantic error in your program, it will run successfully in the sense that the computer will not generate any error messages, but it will not do the right thing. It will do something else. Specifically, it will do what you told it to do.
 
