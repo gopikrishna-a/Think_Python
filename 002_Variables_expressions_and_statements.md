@@ -26,7 +26,7 @@ state each of the variables is in (think of it as the variable’s state of mind
 Programmers generally choose names for their variables that are meaningful—they document what the variable is used for.
 Variable names can be arbitrarily long. They can contain both letters and numbers, but they have to begin with a letter. It is legal to use uppercase letters, but it is a good idea to begin variable names with a lowercase letter.
 
-### keywords in Python
+### 8. keywords in Python
 
 + Python 2 has 31 keywords:
 
@@ -38,4 +38,19 @@ Variable names can be arbitrarily long. They can contain both letters and number
 		class 		exec 		in 		raise
 		continue 	        finally 	is 		return
 		def 		        for 		lambda 		try
+
++ In Python 3, exec is no longer a keyword, but nonlocal is.
+
+
+### 9. What is Operator?
+**Ans** Operators are special symbols that represent computations like addition and multiplication. The values the operator is applied to are called operands.
+
+#### The operators +, -, *, / and ** perform addition, subtraction, multiplication, division and exponentiation
+
+
+
+
+
+
+
 		
