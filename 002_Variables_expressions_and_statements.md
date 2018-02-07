@@ -1,6 +1,6 @@
 # Variables, expressions and statements
 
-#### 6. Variables
+### 6. Variables
 
 **Ans:** One of the most powerful features of a programming language is the ability to manipulate variables. A variable is a name that refers to a value.
 An assignment statement creates new variables and gives them values:
@@ -66,7 +66,7 @@ Variable names can be arbitrarily long. They can contain both letters and number
 + Operators with the same precedence are evaluated from left to right
 
 
-### Comments
+### 12. Comments
 
 **Ans:** As programs get bigger and more complicated, they get more difficult to read. Formal languages are dense, and it is often difficult to look at a piece of code and figure out what it is doing, or why. For this reason, it is a good idea to add notes to your programs to explain in natural language what the program is doing. These notes are called comments, and they start with the **#** symbol
 
