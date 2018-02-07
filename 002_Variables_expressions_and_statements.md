@@ -36,6 +36,6 @@ Variable names can be arbitrarily long. They can contain both letters and number
 		assert 		else 		if 			pass 	    yield
 		break 		except 		import 		print
 		class 		exec 		in 			raise
-		continue 	     finally 	is 			return
-		def 		     for 		lambda 		try
+		continue 	        finally 	is 			return
+		def 		        for 		lambda 		try
 		
