@@ -31,7 +31,7 @@ Variable names can be arbitrarily long. They can contain both letters and number
 + Python 2 has 31 keywords:
 
 
-		and			del			from 		not 		while
+		and			del		from 		not 		while
 		as 			elif 		global 		or 		    with
 		assert 		else 		if 			pass 	    yield
 		break 		except 		import 		print
