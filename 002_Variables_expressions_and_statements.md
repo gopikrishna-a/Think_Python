@@ -45,10 +45,30 @@ Variable names can be arbitrarily long. They can contain both letters and number
 ### 9. What is Operator?
 **Ans** Operators are special symbols that represent computations like addition and multiplication. The values the operator is applied to are called operands.
 
-#### The operators +, -, *, / and ** perform addition, subtraction, multiplication, division and exponentiation
+#### The operators: +, -, *, / and ** perform addition, subtraction, multiplication, division and exponentiation
 
 
+### 10. Expressions and statements
+#### 10.1 Expressions:
+**Ans** An expression is a combination of values, variables, and operators. A value all by itself is considered an expression, and so is a variable, so the following are all legal expressions (assuming that the variable x has been assigned a value)
 
+#### statements:
+**Ans** A statement is a unit of code that the Python interpreter can execute. 
+
+
+### 11. Order of operations
+
+**Ans** When more than one operator appears in an expression, the order of evaluation depends on the rules of precedence. For mathematical operators, Python follows mathematical convention. The acronym PEMDAS is a useful way to remember the rules:
+
++ Parentheses have the highest precedence and can be used to force an expression to evaluate in the order you want. 
++ Exponentiation has the next highest precedence, so 2**1+1 is 3, not 4, and 3*1**3 is 3, not 27.
++ Multiplication and Division have the same precedence, which is higher than Addition and Subtraction, which also have the same precedence. So 2*3-1 is 5, not 4, and 6+4/2 is 8, not 5.
++ Operators with the same precedence are evaluated from left to right
+
+
+### Comments
+
+**Ans** As programs get bigger and more complicated, they get more difficult to read. Formal languages are dense, and it is often difficult to look at a piece of code and figure out what it is doing, or why. For this reason, it is a good idea to add notes to your programs to explain in natural language what the program is doing. These notes are called comments, and they start with the **#** symbol
 
 
 
