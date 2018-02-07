@@ -32,8 +32,8 @@ Variable names can be arbitrarily long. They can contain both letters and number
 
 
 		and			del		from 		not 		while
-		as 			elif 		global 		or 		    with
-		assert 		else 		if 		pass 	    yield
+		as 			elif 		global 		or 		with
+		assert 		else 		if 		pass 	                yield
 		break 		except 		import 		print
 		class 		exec 		in 		raise
 		continue 	        finally 	is 		return
