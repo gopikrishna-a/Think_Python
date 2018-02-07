@@ -14,19 +14,19 @@ An assignment statement creates new variables and gives them values:
 **Note:** The type of a variable is the type of the value it refers to.
 
 
-#### 6. What is State diagram?
+### 7. What is State diagram?
 
 **Ans:** A common way to represent variables on paper is to write the name with an arrow pointing to the variable’s value. This kind of figure is called a state diagram because it shows what
 state each of the variables is in (think of it as the variable’s state of mind).
 
 ![State diagram](https://i.imgur.com/8NkLynX.png)
 
-### 7. Variable names 
+### 8. Variable names 
 
 Programmers generally choose names for their variables that are meaningful—they document what the variable is used for.
 Variable names can be arbitrarily long. They can contain both letters and numbers, but they have to begin with a letter. It is legal to use uppercase letters, but it is a good idea to begin variable names with a lowercase letter.
 
-### 8. keywords in Python
+### 9. keywords in Python
 
 + Python 2 has 31 keywords:
 
@@ -42,21 +42,21 @@ Variable names can be arbitrarily long. They can contain both letters and number
 + In Python 3, exec is no longer a keyword, but nonlocal is.
 
 
-### 9. What is Operator?
+### 10. What is Operator?
 **Ans:** Operators are special symbols that represent computations like addition and multiplication. The values the operator is applied to are called operands.
 
 #### The operators: +, -, *, / and ** perform addition, subtraction, multiplication, division and exponentiation
 
 
-### 10. Expressions and statements
-#### 10.1 Expressions:
+### 11. Expressions and statements
+#### 11.1 Expressions:
 **Ans:** An expression is a combination of values, variables, and operators. A value all by itself is considered an expression, and so is a variable, so the following are all legal expressions (assuming that the variable x has been assigned a value)
 
 #### statements:
 **Ans** A statement is a unit of code that the Python interpreter can execute. 
 
 
-### 11. Order of operations
+### 12. Order of operations
 
 **Ans:** When more than one operator appears in an expression, the order of evaluation depends on the rules of precedence. For mathematical operators, Python follows mathematical convention. The acronym PEMDAS is a useful way to remember the rules:
 
@@ -66,7 +66,7 @@ Variable names can be arbitrarily long. They can contain both letters and number
 + Operators with the same precedence are evaluated from left to right
 
 
-### 12. Comments
+### 13. Comments
 
 **Ans:** As programs get bigger and more complicated, they get more difficult to read. Formal languages are dense, and it is often difficult to look at a piece of code and figure out what it is doing, or why. For this reason, it is a good idea to add notes to your programs to explain in natural language what the program is doing. These notes are called comments, and they start with the **#** symbol
 
