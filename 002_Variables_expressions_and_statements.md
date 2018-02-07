@@ -21,6 +21,13 @@ state each of the variables is in (think of it as the variable’s state of mind
 
 ![State diagram](https://i.imgur.com/8NkLynX.png)
 
+### 7. Variable names 
 
+Programmers generally choose names for their variables that are meaningful—they document what the variable is used for.
+Variable names can be arbitrarily long. They can contain both letters and numbers, but they have to begin with a letter. It is legal to use uppercase letters, but it is a good idea to begin variable names with a lowercase letter.
+
+### keywords in Python
+
++ Python 2 has 31 keywords:
 
 
