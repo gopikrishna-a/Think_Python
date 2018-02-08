@@ -96,7 +96,7 @@ The first line of the function definition is called the header; the rest is call
     I'm a lumberjack, and I'm okay.
     I sleep all night and I work all day.
 
-# 18. Variables and parameters are local
+### 18. Variables and parameters are local
 
 **Ans:** When you create a variable inside a function, it is local, which means that it only exists inside the function.
 
