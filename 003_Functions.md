@@ -72,7 +72,7 @@ The module object contains the functions and variables defined in the module. To
      >>> pi_value
      3.141592653589793
 
-# 17. Adding new functions
+### 17. Adding new functions
 
 **Ans:** Apart from the build-in functions, We can also build our own functions based on our requirement.
 
